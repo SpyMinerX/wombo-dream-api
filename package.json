@@ -28,7 +28,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"@types/node": "^17.0.21",
-		"axios": "^0.26.1",
+		"axios": "^0.34.0",
 		"fs": "^0.0.1-security",
 		"sleep-promise": "^9.1.0",
 		"sprintf-js": "^1.1.2"
